@@ -1,0 +1,27 @@
+.icon,
+.text {
+  color: #fff;
+}
+.text span {
+  font-size: 14px;
+}
+.description {
+  width: 100%;
+}
+.description .text:last-child {
+  text-align: right;
+}
+
+/* .description .text:nth-last-child(-n+2) {
+  text-align: right;
+} */
+
+.roomTitle {
+  display: flex;
+  justify-content: space-between;
+}
+.time {
+  text-align: right;
+  color: #fff;
+}
+
